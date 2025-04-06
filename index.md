@@ -30,6 +30,6 @@ My name is Ryan Kung and I am a **Math-CS** Major at **UCSD**. I am interested i
 ## Tasks
 - [x] Writeup markdown for index
 
-- [] Publish page to GitHub Pages
+- [ ] Publish page to GitHub Pages
 
-- [] Set up dark theme using `#121212` for surface color.
+- [ ] Set up dark theme using `#121212` for surface color.
